@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{2E3A991B-4EA7-D901-7F4E-8C8D11E765E0}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "try2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
